@@ -1,0 +1,175 @@
+h1{
+	text-align: center;
+	font-size: 32pt;
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+h2{
+	text-align: center;
+	font-size: 26pt;
+	color: white;
+}
+h3{
+	text-align: center;
+	font-size: 18pt;
+	color: white;
+ 	
+
+}
+header, footer{
+	background-color: orange;
+	color: white;
+
+	margin-top: 0;
+}
+a:hover{
+	color: orange;
+}
+nav li a{
+	display: block;
+    min-width: 190px;
+    text-align: center;
+    line-height: 30px;
+    
+    
+    text-decoration: none;
+    color: white;
+}
+nav ul li{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: table-cell;
+}
+ul{
+	list-style-type: none;
+    margin: 5px;
+    padding: 0;
+   
+    
+}
+
+section p, article p{
+	font-size: 12pt;
+	margin-bottom: 10px;
+	text-align: center;
+
+}
+section figure{
+	margin-top: 50px;
+	text-align: center;
+	color: white;
+}
+figcaption{
+	margin-top: 50px;
+	text-align: center;
+
+	border-style: solid;
+	border-width: 1px;
+	text-decoration: none;
+	color: white;
+}
+#acceuil{
+	width: 850px;
+
+
+	border-style: double;
+	border-width: 10px;
+	border-color: #6a7d7d;
+	border-radius: 15px;
+
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+article p a{
+	width: 800px;
+
+		
+	color: blue;
+
+}
+
+body{
+	background-image: url(https://www.xmple.com/wallpaper/yellow-white-gradient-linear-highlight-3840x2160-c2-f0e68c-ffffff-l-33-a-165-f-21.svg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+.presentation{
+	width: 850px;
+
+	border-style: double;
+	border-width: 10px;
+	border-color: #6a7d7d;
+	border-radius: 15px;
+
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.astuces{
+	width: 850px;
+
+	border-style: double;
+	border-width: 10px;
+	border-color: #6a7d7d;
+	border-radius: 15px;
+
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.astucesh4{
+	color: white;
+	text-align: center;
+}
+
+
+footer p{
+	margin: 2px;
+}
+
+.sommaire a {
+    color: white;
+}
+
+.sommaire a:visited{
+	color: #6aaead;
+}
+.barrenav{
+	background: orange;
+}
+.tableTd9 th, tr, td{
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    border-color: white;
+    color: white;
+        
+}
+.tableTd9{
+    margin: 50px;
+    table-layout: auto;
+    width: 90%
+      } 
+.tableTd9 figcaption {
+    color: white;
+}
+
+legend {
+	color: white;
+}
+label{
+	color: white;
+}
+section article form {
+	display: block;
+   	margin : auto;
+}
+div{
+	text-align: center;
+}
